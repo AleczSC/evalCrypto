@@ -1,4 +1,3 @@
-#evaluacionCriptografia
 Este repositorio contiene programas realizados para
 la evaluación de los protocolos criptográficos AES, ChaCha,
 ChaChaPoly y Curve25519 utilizando las placas de desarollo
